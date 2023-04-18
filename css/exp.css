@@ -39,7 +39,7 @@
     display: block;
     width: 21px;
     height: 19px;
-    background: url(./img/detalhe.svg);
+    background: url(/img/detalhe.svg);
     position: absolute;
     top: 20px;
     left: -19px;
